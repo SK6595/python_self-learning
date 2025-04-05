@@ -1,1 +1,1 @@
-# python_self-learning
+Pythonの自己学習用リポジトリ
